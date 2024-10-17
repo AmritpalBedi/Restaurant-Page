@@ -114,4 +114,3 @@ function createLocation() {
 
     return div;
 }
-
